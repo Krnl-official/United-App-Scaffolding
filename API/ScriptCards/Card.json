@@ -1,0 +1,16 @@
+{
+  "card": {
+    "title": "STRING",
+    "preview": "IMAGE",
+    "dateOfCreation": "UNIX"
+    "script": {
+      "source": "STRING",
+      "isUrl": "BOOLEAN" // File path is considered URL
+    }
+    
+    "creator": {
+      "name": "STRING",
+      "profilePicture": "IMAGE"
+    }
+  }
+}
