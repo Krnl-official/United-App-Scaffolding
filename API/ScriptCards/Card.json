@@ -2,15 +2,17 @@
   "card": {
     "title": "STRING",
     "preview": "IMAGE",
-    "dateOfCreation": "UNIX"
+    "dateOfCreation": "UNIX",
     "script": {
       "source": "STRING",
       "isUrl": "BOOLEAN" // File path is considered URL
-    }
+    },
     
     "creator": {
       "name": "STRING",
       "profilePicture": "IMAGE"
-    }
+    },
+
+    "tags": "STRING" // Tags separated by comma
   }
 }
