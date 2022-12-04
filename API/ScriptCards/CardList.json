@@ -1,6 +1,6 @@
 {
   "cardlist" : {
-    "path": "URL" // where the cards are located
+    "path": "URL", // where the cards are located
     "cards": {
       "CARD NAME": "STRING"
       "CARD NAME": "STRING"
